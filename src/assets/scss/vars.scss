@@ -1,0 +1,26 @@
+$main_background_color: #FBFBFB;
+$second_background_color: #F3F3F3;
+
+$primary_color: #08A2DC;
+$primary_color_hover: #0087CB;
+$inactive_color: #ACABAB;
+$light_color: #EBF4F8;
+$color_success: #14A38B;
+$color_success_hover: #118B77;
+$color_wrong: #FF7171;
+
+$main_font_color: #000000;
+$second_font_color: #747272;
+$second_hover_color: #C4C4C4;
+$third_color: #D2D2D2;
+
+$minScreenWidth: 320px;
+$maxScreenWidth: 1920px;
+
+$bigTextSize: calc( 40px + 8*(100vw - 320px)/1600);
+
+$smallTextSize: calc( 14px + 8*(100vw - 320px)/1600);
+$smallestTextSize: calc( 10px + 8*(100vw - 320px)/1600);
+$mainTextSize: calc( 16px + 8*(100vw - 320px)/1600);
+
+$mediumTextSize: calc( 20px + 8*(100vw - 320px)/1600);
